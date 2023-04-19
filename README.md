@@ -1,6 +1,6 @@
 #IssueTracker
-A full stack, app used for reviewing employee.
-Hoisted Link :
+A full stack app, which helps to track issues/bugs for the Project.
+Hoisted Link :https://soumyasri546-github-io-project.onrender.com
 
 
 ### Description
