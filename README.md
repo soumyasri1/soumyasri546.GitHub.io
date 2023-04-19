@@ -1,4 +1,4 @@
-# Employee-Review-System
+#IssueTracker
 A full stack, app used for reviewing employee.
 Hoisted Link :
 
